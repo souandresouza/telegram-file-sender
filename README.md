@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/telegram-file-sender)
-![GitHub license](https://img.shields.io/github/license/seu-usuario/telegram-file-sender)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/telegram-file-sender?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/souandresouza/telegram-file-sender)
+![GitHub license](https://img.shields.io/github/license/souandresouza/telegram-file-sender)
+![GitHub stars](https://img.shields.io/github/stars/souandresouza/telegram-file-sender?style=social)
 
 Uma aplicação web para enviar arquivos para o Telegram diretamente do navegador.
 
-**🚀 Demo Online:** [https://seu-usuario.github.io/telegram-file-sender/](https://seu-usuario.github.io/telegram-file-sender/)
+**🚀 Demo Online:** [https://souandresouza.github.io/telegram-file-sender/](https://souandresouza.github.io/telegram-file-sender/)
 
 </div>
 
@@ -61,7 +61,7 @@ Uma aplicação web para enviar arquivos para o Telegram diretamente do navegado
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/telegram-file-sender.git
+git clone https://github.com/souandresouza/telegram-file-sender.git
 
 # Entre na pasta
 cd telegram-file-sender
